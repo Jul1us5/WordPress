@@ -1,0 +1,29 @@
+body {
+    background-color: coral;
+}
+    .box {
+        display: flex;
+        width: 90px;
+        height: 90px;
+        background-color: crimson;
+
+        float: right;
+        font-size: 50px;
+        color: black;
+    
+        align-items: center;
+        justify-content: center;
+    }
+    .box a {
+        text-decoration: none;
+        color: white;
+    }
+    .line {
+        display: inline-block;
+        background-color: rgb(255, 255, 255);
+        width: 600px;
+        margin: 2px;
+    }
+    a {
+        text-decoration: none;
+    }
